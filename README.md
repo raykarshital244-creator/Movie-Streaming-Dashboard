@@ -32,6 +32,7 @@ This project is an interactive Power BI dashboard developed to analyze movie str
 ## 📷 Dashboard Preview
 ###  Movie Streaming dashboard
 <img width="1383" height="692" alt="image" src="https://github.com/user-attachments/assets/4dd01d2e-75e3-4e59-9096-a2a8d2f40c9a" />
+
 ###  User Viewing Dashboard
 <img width="1227" height="719" alt="image" src="https://github.com/user-attachments/assets/6efb79dd-1166-46d1-8a54-00e8a5853213" />
 
