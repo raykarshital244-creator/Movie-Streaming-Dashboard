@@ -22,8 +22,6 @@ This project is an interactive Power BI dashboard developed to analyze movie str
 ## 🛠️ Tools & Technologies
 - Microsoft Power BI
 - Power Query
-- DAX
-- Microsoft Excel / CSV Dataset
 
 ## 📁 Files Included
 - `final report.pbix` – Power BI dashboard
